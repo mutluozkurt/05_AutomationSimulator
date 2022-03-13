@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.exe.config
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.exe
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\_05_AutomationSimulator.Form1.resources
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\_05_AutomationSimulator.Properties.Resources.resources
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.exe
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Contracts.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Controller.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Contracts.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Controller.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.exe.config
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.exe
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Contracts.dll
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Controller.dll
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Contracts.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\bin\Debug\05_AutomationSimulator.Controller.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\_05_AutomationSimulator.Form1.resources
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\_05_AutomationSimulator.Properties.Resources.resources
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.GenerateResource.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.exe
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\05_AutomationSimulator\05_AutomationSimulator\obj\Debug\05_AutomationSimulator.csproj.AssemblyReference.cache

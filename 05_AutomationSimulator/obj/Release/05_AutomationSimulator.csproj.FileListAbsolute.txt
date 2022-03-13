@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.exe.config
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.exe
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.Contracts.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.Controller.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.Contracts.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\bin\Release\05_AutomationSimulator.Controller.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\_05_AutomationSimulator.Form1.resources
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\_05_AutomationSimulator.Properties.Resources.resources
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.csproj.CopyComplete
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.exe
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator\obj\Release\05_AutomationSimulator.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\bin\Release\05_AutomationSimulator.Controller.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\bin\Release\05_AutomationSimulator.Controller.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\bin\Release\05_AutomationSimulator.Contracts.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\bin\Release\05_AutomationSimulator.Contracts.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\obj\Release\05_AutomationSimulator.Controller.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\obj\Release\05_AutomationSimulator.Controller.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\obj\Release\05_AutomationSimulator.Controller.csproj.CopyComplete
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\obj\Release\05_AutomationSimulator.Controller.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Controller\obj\Release\05_AutomationSimulator.Controller.pdb

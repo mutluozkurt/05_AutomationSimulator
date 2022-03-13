@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\bin\Release\05_AutomationSimulator.Contracts.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\bin\Release\05_AutomationSimulator.Contracts.pdb
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\obj\Release\05_AutomationSimulator.Contracts.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\obj\Release\05_AutomationSimulator.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\obj\Release\05_AutomationSimulator.Contracts.dll
+C:\Users\User\source\repos\05_AutomationSimulator\05_AutomationSimulator.Contracts\obj\Release\05_AutomationSimulator.Contracts.pdb
